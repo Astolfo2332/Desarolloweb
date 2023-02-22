@@ -1,0 +1,18 @@
+../ --- devolver carpeta padre
+./ misma carpeta
+ se puede conmbinar ls con ./ y te dice la lista de la misma carperta o ../ para el contenido de la superior
+Otra forma de llegar a home es: ~
+
+crear varios directorios con mkdir -p le dice que cree la superior si no existe
+
+mv mover archivos
+
+echo escribe la primera linea en un archivo
+
+editores: nano y vim:	
+
+vim: insertar esc i, salir wq para guardar, q! forzar salida, q salir normal
+
+backup: cp archivo_original archivo_bakcup
+
+top: administrador tareas
